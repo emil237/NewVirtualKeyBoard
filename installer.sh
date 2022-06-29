@@ -15,8 +15,8 @@ set -e
 rm -rf *main*
 rm -rf *NewVirtualKeyBoard*
 wget --no-check-certificate https://raw.githubusercontent.com/emil237/NewVirtualKeyBoard/main/NewVirtualKeyBoard-main.tar.gz
+tar -xzf NewVirtualKeyBoard-main.tar.gz -C /
 tar -xzf NewVirtualKeyBoard-main.tar.gz
-cp -rf NewVirtualKeyBoard-main/usr /
 cp -f /tmp/kle/* /usr/lib/enigma2/python/Plugins/SystemPlugins/NewVirtualKeyBoard/skins/kle > /dev/null 2>&1
 rm -rf /tmp/kle > /dev/null 2>&1
 rm -rf *NewVirtualKeyBoard*
