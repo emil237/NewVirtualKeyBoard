@@ -33,7 +33,6 @@ echo "##########################################################################
 echo "#                 NewVirtualKeyBoard INSTALLED SUCCESSFULLY               #"
 echo "#                       mfaraj57 & RAED (fairbird)                        #"              
 echo "#                               support                                   #"
-echo "#                         ttps://www.tunisia-sat.com                      #"
 echo "#  restart enigma2 and select New virtual keyboard setup from menu-system #"
 echo "###########################################################################"
 echo
